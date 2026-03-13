@@ -1,6 +1,5 @@
 # 👋 Hi, I'm an AI & Blockchain Developer
 
-![AI Banner](https://images.unsplash.com/photo-1677442135136-760c813028c0)
 
 🚀 **AI Engineer | Web3 Developer | DeFi Builder**
 
@@ -10,7 +9,6 @@ I build intelligent systems combining **Artificial Intelligence and Blockchain t
 
 # 🔥 Current Focus
 
-![AI Automation](https://images.unsplash.com/photo-1677442136019-21780ecad995)
 
 * AI Agents
 * LLM Applications
@@ -24,11 +22,6 @@ I build intelligent systems combining **Artificial Intelligence and Blockchain t
 
 ### 🤖 AI / Machine Learning
 
-![AI](https://img.shields.io/badge/Python-AI-blue)
-![LangChain](https://img.shields.io/badge/LangChain-LLM-green)
-![OpenAI](https://img.shields.io/badge/OpenAI-API-black)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
-
 Python
 LangChain
 LlamaIndex
@@ -40,8 +33,6 @@ Vector Databases
 
 ### ⚙️ Backend Development
 
-![Backend](https://images.unsplash.com/photo-1555949963-aa79dcee981c)
-
 FastAPI
 Django
 Node.js
@@ -52,8 +43,6 @@ MongoDB
 ---
 
 ### ⛓️ Blockchain
-
-![Blockchain](https://images.unsplash.com/photo-1639762681485-074b7f938ba0)
 
 Solidity
 Ethereum
