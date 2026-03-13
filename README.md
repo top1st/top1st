@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi 👋 I'm an AI & Blockchain Developer
 
-<!--
-**top1st/top1st** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 AI Engineer | Web3 Developer | DeFi Builder
 
-Here are some ideas to get you started:
+I build intelligent systems combining **Artificial Intelligence and Blockchain technology**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Current Focus
+- AI Agents
+- LLM Applications
+- AI Automation
+- AI + Blockchain integrations
+
+## 🧠 Tech Stack
+
+### AI / Machine Learning
+Python
+LangChain
+LlamaIndex
+OpenAI API
+HuggingFace
+Vector Databases
+
+### Backend
+Python
+FastAPI
+Django
+Node.js
+REST APIs
+
+### Blockchain
+Solidity
+Ethereum
+Smart Contracts
+Web3.js
+Hardhat
+DeFi Protocols
+
+### DevOps
+Docker
+AWS
+Linux
+GitHub Actions
+
+## 🚀 Projects
+- AI Chatbot Platform
+- DeFi Trading Automation
+- LLM-powered Knowledge Assistant
+- AI Crypto Market Analyzer
+
+## 🌍 Connect
+GitHub: https://github.com/top1st
