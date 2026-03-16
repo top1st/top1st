@@ -1,109 +1,38 @@
-# 👋 Hi, I'm an AI & Blockchain Developer
+# Hi, I'm Zhang Xiqian 👋
 
+🚀 AI Engineer | Web3 Developer | Automation Builder
 
-🚀 **AI Engineer | Web3 Developer | DeFi Builder**
+I build AI-powered applications, blockchain tools, and scalable backend systems.
 
-I build intelligent systems combining **Artificial Intelligence and Blockchain technology**.
+- 🤖 AI / LLM Apps
+- ⛓ Web3 & DeFi Infrastructure
+- ⚡ Node.js / Python Systems
+- 🧠 Automation & Agents
 
----
+Currently exploring:
+AI + 3D generation, AI developer tools, and autonomous agents.
 
-# 🔥 Current Focus
+## 🛠 Tech Stack
 
+**Languages**
 
-* AI Agents
-* LLM Applications
-* AI Automation
-* AI + Blockchain integrations
-* Backend AI systems
+Python | JavaScript | TypeScript | Solidity
 
----
+**AI / ML**
 
-# 🧠 Tech Stack
+OpenAI API • LangChain • LLM Agents • Vector Databases
 
-### 🤖 AI / Machine Learning
+**Web3**
 
-Python
-LangChain
-LlamaIndex
-OpenAI API
-HuggingFace
-Vector Databases
+Ethereum • Smart Contracts • Ethers.js • Wallet Development
 
----
+**Backend**
 
-### ⚙️ Backend Development
+Node.js • Express • FastAPI • PostgreSQL • Redis
 
-FastAPI
-Django
-Node.js
-REST APIs
-PostgreSQL
-MongoDB
+**Tools**
 
----
-
-### ⛓️ Blockchain
-
-Solidity
-Ethereum
-Smart Contracts
-Web3.js
-Hardhat
-DeFi Protocols
-
----
-
-### ☁️ DevOps
-
-Docker
-AWS
-Linux
-GitHub Actions
-
----
-
-# 🚀 Featured Projects
-
-## 🤖 AI Chatbot Platform
-
-LLM-powered chatbot using **LangChain + vector database retrieval**
-
-Features:
-
-* AI conversation
-* document Q&A
-* knowledge retrieval
-
----
-
-## 📊 AI Crypto Market Analyzer
-
-AI-powered system that analyzes **crypto market data and DeFi protocols**.
-
-Features:
-
-* AI insights
-* market sentiment analysis
-* automated signals
-
----
-
-## 🧠 LLM Knowledge Assistant
-
-AI assistant that answers questions using **RAG architecture**.
-
-Stack:
-Python • LangChain • FastAPI • Vector DB
-
----
-
-# 📈 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=top1st\&show_icons=true\&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st\&layout=compact\&theme=radical)
-
----
+Docker • Git • Linux • Cloud APIs
 
 # 🌍 Connect With Me
 
@@ -112,3 +41,45 @@ GitHub: https://github.com/top1st
 ---
 
 ⭐ Always interested in collaborating on **AI, Web3, and automation projects**
+
+## 🚀 Featured Projects
+
+### 🤖 AI Web3 Assistant
+AI agent that analyzes blockchain transactions and explains them in natural language.
+
+Tech:
+Python • OpenAI • Ethers.js • FastAPI
+
+---
+
+### 💰 DeFi Wallet Analyzer
+Tool that scans wallets and detects DeFi activity, risks, and token exposure.
+
+Tech:
+Node.js • Web3 • Ethereum APIs
+
+---
+
+### 🧠 AI Code Assistant
+CLI tool that generates and refactors code using LLMs.
+
+Tech:
+Python • OpenAI • CLI
+
+## 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&layout=compact)
+
+![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+
+## 📫 Connect With Me
+
+GitHub: https://github.com/top1st  
+Email: riguang102@gmail.com
+
+Open to:
+• AI engineering roles
+• Web3 development
+• AI startup collaborations
