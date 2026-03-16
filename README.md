@@ -34,10 +34,6 @@ Node.js • Express • FastAPI • PostgreSQL • Redis
 
 Docker • Git • Linux • Cloud APIs
 
-# 🌍 Connect With Me
-
-GitHub: https://github.com/top1st
-
 ---
 
 ⭐ Always interested in collaborating on **AI, Web3, and automation projects**
