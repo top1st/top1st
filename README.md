@@ -49,7 +49,7 @@ I build **AI-powered automation systems, intelligent agents, and Web3 applicatio
 
 ## 📫 Connect With Me
 
-- 🌐 <a href="https://top1st.github.io" target="_blank"><b>Portfolio Website: https://top1st.github.io  </b></a>  
-- 📧 <a href="mailto:riguang102@gmail.com"><b>Email Me: riguang102@gmail.com</b></a>
+- 🌐 Portfolio Website: https://top1st.github.io  
+- 📧 Email: riguang102@gmail.com
 
 ---
