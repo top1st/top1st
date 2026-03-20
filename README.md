@@ -1,82 +1,55 @@
-# Hi, I'm Zhang Xiqian 👋
+# 🧠 Zhang Xiqian — AI x Web3 Developer
 
-🚀 AI Engineer | Web3 Developer | Automation Builder
+I build **AI-powered automation systems, intelligent agents, and Web3 applications**.
 
-I build AI-powered applications, blockchain tools, and scalable backend systems.
+---
 
-- 🤖 AI / LLM Apps
-- ⛓ Web3 & DeFi Infrastructure
-- ⚡ Node.js / Python Systems
-- 🧠 Automation & Agents
+## 🚀 About Me
 
-Currently exploring:
-AI + 3D generation, AI developer tools, and autonomous agents.
+- 🤖 Building AI agents for real-world business automation  
+- 🌐 Full-stack developer (modern web apps + APIs)  
+- ⛓️ Experienced in Web3, DeFi, and smart contracts  
+- ⚡ Focused on scalable AI SaaS products  
+
+---
 
 ## 🛠 Tech Stack
 
-**Languages**
+### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-000000?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=for-the-badge)
 
-Python | JavaScript | TypeScript | Solidity
+### 🌐 Frontend
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**AI / ML**
+### 🖥 Backend
+![Node JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
 
-OpenAI API • LangChain • LLM Agents • Vector Databases
+### ⛓️ Web3
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=for-the-badge)
 
-**Web3**
-
-Ethereum • Smart Contracts • Ethers.js • Wallet Development
-
-**Backend**
-
-Node.js • Express • FastAPI • PostgreSQL • Redis
-
-**Tools**
-
-Docker • Git • Linux • Cloud APIs
-
----
-
-⭐ Always interested in collaborating on **AI, Web3, and automation projects**
-
-## 🚀 Featured Projects
-
-### 🤖 AI Web3 Assistant
-AI agent that analyzes blockchain transactions and explains them in natural language.
-
-Tech:
-Python • OpenAI • Ethers.js • FastAPI
+### 🗄 Database
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-### 💰 DeFi Wallet Analyzer
-Tool that scans wallets and detects DeFi activity, risks, and token exposure.
+## 📈 Current Focus
 
-Tech:
-Node.js • Web3 • Ethereum APIs
+- AI automation systems for businesses  
+- Multi-agent AI workflows  
+- AI-powered SaaS tools  
+- AI + Web3 integrations  
 
 ---
-
-### 🧠 AI Code Assistant
-CLI tool that generates and refactors code using LLMs.
-
-Tech:
-Python • OpenAI • CLI
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=top1st&layout=compact)
-
-![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
- 
-Profile: https://top1st.github.io
 
-Email: riguang102@gmail.com
+- 🌐 <a href="https://top1st.github.io" target="_blank"><b>Portfolio Website</b></a>  
+- 📧 <a href="mailto:riguang102@gmail.com"><b>Email Me</b></a>
 
-Open to:
-• AI engineering roles
-• Web3 development
-• AI startup collaborations
+---
