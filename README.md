@@ -71,9 +71,9 @@ Python • OpenAI • CLI
 ![snake gif](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
 
 ## 📫 Connect With Me
+ 
+Profile: https://top1st.github.io
 
-GitHub: https://github.com/top1st  
-Profile: https://top1st.github.io/
 Email: riguang102@gmail.com
 
 Open to:
