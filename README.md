@@ -73,6 +73,7 @@ Python • OpenAI • CLI
 ## 📫 Connect With Me
 
 GitHub: https://github.com/top1st  
+Profile: https://top1st.github.io/
 Email: riguang102@gmail.com
 
 Open to:
