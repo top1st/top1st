@@ -1,4 +1,4 @@
-# 🧠 Zhang Xiqian — AI x Web3 Developer
+# 🧠 AI x Web3 Developer
 
 I build **AI-powered automation systems, intelligent agents, and Web3 applications**.
 
@@ -39,6 +39,6 @@ I build **AI-powered automation systems, intelligent agents, and Web3 applicatio
 ## 📫 Connect With Me
 
 - 🌐 Portfolio Website: https://top1st.github.io  
-- 📧 Email: riguang102@gmail.com
+- 📧 Email: top1st102@outlook.com
 
 ---
