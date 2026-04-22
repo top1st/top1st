@@ -1,44 +1,38 @@
-# 🧠 AI x Web3 Developer
+# 👋 Hi, I'm Top1st
 
-I build **AI-powered automation systems, intelligent agents, and Web3 applications**.
-
----
-
-## 🚀 About Me
-
-- 🤖 Building AI agents for real-world business automation  
-- 🌐 Full-stack developer (modern web apps + APIs)  
-- ⛓️ Experienced in Web3, DeFi, and smart contracts  
-- ⚡ Focused on scalable AI SaaS products  
-
----
-## 🛠 Tech Stack
-
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-black?style=flat)
-![LangChain](https://img.shields.io/badge/LangChain-00A67E?style=flat)
-![Next.js](https://img.shields.io/badge/Next.js-black?style=flat&logo=next.js)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat)
-![Ethers.js](https://img.shields.io/badge/Ethers.js-3C3C3D?style=flat)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql)
+**Senior Full Stack & AI Automation Engineer**  
 
 ---
 
-## 📈 Current Focus
+## 🔧 What I build
 
-- AI automation systems for businesses  
-- Multi-agent AI workflows  
-- AI-powered SaaS tools  
-- AI + Web3 integrations  
+- **Web3 & Crypto Exchanges** – Led development of 5+ production Rails exchanges (Peatio, similar to Binance). Matching engine, order books, WebSocket feeds.
+- **AI Agent Systems** – Built 8 autonomous agents (10xcoach) using OpenAI/Claude, n8n, RAG pipelines.
+- **Full‑stack Apps** – React, Next.js, Node.js, Python, Supabase, PostgreSQL.
+- **Mobile** – React Native (iOS/Android), App Store & Play Store deployment.
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Link |
+|---------|-------|------|
+| **Playhold.io** | Next.js, Supabase, Web3 wallets | [playhold.io](https://www.playhold.io) |
+| **10xcoach** | AI agents, n8n, OpenAI, React | Private repo – demo on request |
+| **Oni.network** | React, Node.js, GraphQL, AWS | [oni.network](https://oni.network) |
+| **Peatio (5+ exchanges)** | Ruby on Rails, Rust, Kafka, Sidekiq, AWS | Private – NDA protected |
+| **AI Website Chatbot** | OpenAI, embeddings, semantic search | [GitHub](https://github.com/top1st/ai-chatbot) |
 
 ---
 
-## 📫 Connect With Me
+## 📈 GitHub Stats
 
-- 🌐 Portfolio Website: https://top1st.github.io  
-- 📧 Email: top1st102@outlook.com
+![top1st's GitHub stats](https://github-readme-stats.vercel.app/api?username=top1st&show_icons=true&theme=dark)
 
 ---
+
+## 📫 Let's connect
+
+- [GitHub](https://github.com/top1st) – you're here
+- [Telegram]([https://t.me/applecryptodev](https://t.me/AppleCryptoDev)) – fastest response
+- Email – top1st102@outlookcom
