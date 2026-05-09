@@ -17,7 +17,6 @@
 
 | Project | Stack | Link |
 |---------|-------|------|
-| **Playhold.io** | Next.js, Supabase, Web3 wallets | [playhold.io](https://www.playhold.io) |
 | **10xcoach** | AI agents, n8n, OpenAI, React | Private repo – demo on request |
 | **Oni.network** | React, Node.js, GraphQL, AWS | [oni.network](https://oni.network) |
 | **Peatio (5+ exchanges)** | Ruby on Rails, Rust, Kafka, Sidekiq, AWS | Private – NDA protected |
