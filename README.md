@@ -19,6 +19,7 @@
 |---------|-------|------|
 | **10xcoach** | AI agents, n8n, OpenAI, React | Private repo – demo on request |
 | **Oni.network** | React, Node.js, GraphQL, AWS | [oni.network](https://oni.network) |
+| **Playhold.io** | Next.js, Supabase, Web3 wallets | [playhold.io](https://www.playhold.io) |
 | **Peatio (5+ exchanges)** | Ruby on Rails, Rust, Kafka, Sidekiq, AWS | Private – NDA protected |
 | **AI Website Chatbot** | OpenAI, embeddings, semantic search | [GitHub](https://github.com/top1st/ai-chatbot) |
 
