@@ -34,5 +34,5 @@
 ## 📫 Let's connect
 
 - [GitHub](https://github.com/top1st) – you're here
-- [Telegram]([https://t.me/applecryptodev](https://t.me/AppleCryptoDev)) – fastest response
+- [Telegram]([https://t.me/applecryptodev](https://t.me/AppleCryptoDev)) – @AppleCryptoDev
 - Email – top1st102@outlookcom
